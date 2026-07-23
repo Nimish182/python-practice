@@ -26,7 +26,7 @@ list=["apple", "banana", "grapes","cherry", "mango", "avacado", "lyche"]
 # print(list.sort())
 # print(list.reverse())
 # list[0]="kiwi"  #this shwows that list is mutable and we change any element of the list by using indexing.
-print(list)
+print(list)''
 
 
 
