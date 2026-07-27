@@ -15,4 +15,4 @@ password = "".join([random.choice(charValues) for i in range(pass_len)])
 # for i in range(pass_len):
 #     password += random.choice(charValues)
 
-print("Your random password is ", password)
+print("Your random password is ", password)  
